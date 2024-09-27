@@ -1,4 +1,4 @@
-fetch('https://run.mocky.io/v3/3e998bf7-2ef0-4b5e-9247-8db80d81327b')
+fetch('https://tiinaback.github.io/json-t1-link/t1.json')
   .then(function(response) {
     return response.json();
   })
